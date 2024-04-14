@@ -12,7 +12,7 @@ It works by using four (4) XOR gates to transform binary input to gray code outp
 Explain how your project works
 
 ## How to test
-
+Input any 4 bits binary input, it may be using limit switches or button (must implement a debouncer by yourself)
 Explain how to use your project
 
 ## External hardware
