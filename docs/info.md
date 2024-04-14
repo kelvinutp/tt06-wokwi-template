@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+It works by using four (4) XOR gates to transform binary input to gray code output
 Explain how your project works
 
 ## How to test
